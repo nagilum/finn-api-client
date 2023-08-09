@@ -1,0 +1,9 @@
+.vs/
+
+FinnApi/bin/
+FinnApi/obj/
+FinnApi/*.user
+
+TestExamples/bin/
+TestExamples/obj/
+TestExamples/*.user
